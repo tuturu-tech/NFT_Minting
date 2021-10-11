@@ -1,0 +1,20 @@
+.footer-container {
+  height: auto;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.twitter-logo {
+  width: 35px;
+  height: 35px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.footer-text {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: auto;
+  margin-bottom: auto;
+}
