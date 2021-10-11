@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NFT_Minting/static/css/main.d79e530f.chunk.css",
+    "main.js": "/NFT_Minting/static/js/main.4c306a6e.chunk.js",
+    "main.js.map": "/NFT_Minting/static/js/main.4c306a6e.chunk.js.map",
+    "runtime-main.js": "/NFT_Minting/static/js/runtime-main.27a188b1.js",
+    "runtime-main.js.map": "/NFT_Minting/static/js/runtime-main.27a188b1.js.map",
+    "static/js/2.5112e4a9.chunk.js": "/NFT_Minting/static/js/2.5112e4a9.chunk.js",
+    "static/js/2.5112e4a9.chunk.js.map": "/NFT_Minting/static/js/2.5112e4a9.chunk.js.map",
+    "index.html": "/NFT_Minting/index.html",
+    "static/css/main.d79e530f.chunk.css.map": "/NFT_Minting/static/css/main.d79e530f.chunk.css.map",
+    "static/js/2.5112e4a9.chunk.js.LICENSE.txt": "/NFT_Minting/static/js/2.5112e4a9.chunk.js.LICENSE.txt",
+    "static/media/opensea.5b5dcb52.png": "/NFT_Minting/static/media/opensea.5b5dcb52.png",
+    "static/media/twitter-logo.ab177c79.svg": "/NFT_Minting/static/media/twitter-logo.ab177c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27a188b1.js",
+    "static/js/2.5112e4a9.chunk.js",
+    "static/css/main.d79e530f.chunk.css",
+    "static/js/main.4c306a6e.chunk.js"
+  ]
+}
