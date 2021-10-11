@@ -12,7 +12,7 @@ import {
 } from "./utils/interact.js";
 
 const OPENSEA_LINK =
-  "https://testnets.opensea.io/collection/squarenft-vikvfjessv";
+  "https://testnets.opensea.io/collection/squarenft-2ksgv8quli";
 const TOTAL_MINT_COUNT = 50;
 
 const imagesObject = {
